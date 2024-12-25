@@ -27,6 +27,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoLiu-ai&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
+## 📊 Contribution Graph
+![Contribution Graph](https://raw.githubusercontent.com/JoLiu-ai/JoLiu-ai/main/dist/github-contribution-grid-snake.svg)
 
 ## 💝 Let's Connect
 <div align="center">
