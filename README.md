@@ -10,13 +10,12 @@
 - 💖 Interests: AI, Machine Learning, and Full-stack Development
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoLiu-ai&show_icons=true&theme=tokyonight" alt="JoLiu-ai's GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoLiu-ai&theme=tokyonight" alt="JoLiu-ai's GitHub streak" height="165" />
@@ -27,8 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoLiu-ai&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-## 📊 Contribution Graph
-![Contribution Graph](https://raw.githubusercontent.com/JoLiu-ai/JoLiu-ai/main/dist/github-contribution-grid-snake.svg)
 
 ## 💝 Let's Connect
 <div align="center">
