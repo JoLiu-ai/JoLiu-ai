@@ -27,12 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoLiu-ai&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoLiu-ai/JoLiu-ai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoLiu-ai/JoLiu-ai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoLiu-ai/JoLiu-ai/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 💝 Let's Connect
 <div align="center">
