@@ -1,40 +1,92 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=539BF5&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+JoLiu-ai;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+ 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"/>
+
 </div>
 
-## 🌈 About Me
-- 🔭 I'm passionate about coding and exploring new technologies
-- 🌱 I'm currently learning and growing in the tech world
-- 👯 Open to collaborating on interesting projects
-- 🎯 Goal: Contributing to meaningful open-source projects
-- 💖 Interests: AI, Machine Learning, and Full-stack Development
-
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoLiu-ai&show_icons=true&theme=tokyonight" alt="JoLiu-ai's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoLiu-ai&theme=tokyonight" alt="JoLiu-ai's GitHub streak" height="165" />
+  
+# 🌿 Welcome to My Digital Garden 🌿
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F7A8C&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+JoLiu-ai+🌱;AI+%26+Python+Developer+💻;Always+learning%2C+always+growing+📚)](https://git.io/typing-svg)
+
 </div>
 
-## 🏆 Top Languages
+## ⋆⋆ About Me ⋆⋆
+<img align="right" width="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "JoLiu-ai"
+        self.role = "AI & Python Developer"
+        self.learning = ["AI", "Python", "English"]
+        self.interests = ["Technology", "Learning", "Tools"]
+```
+
+## 🌲 Tech Forest 🌲
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoLiu-ai&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+[![Python](https://img.shields.io/badge/-Python-2F4858?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![AI](https://img.shields.io/badge/-AI-1F7A8C?style=for-the-badge&logo=ai&logoColor=white)](https://github.com/JoLiu-ai/AI-Learning)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-86BBD8?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![HTML](https://img.shields.io/badge/-HTML5-BEE9E8?style=for-the-badge&logo=html5&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 </div>
 
+## 🌿 Growing Projects 🌿
 
-## 💝 Let's Connect
+| Project | Description |
+|---------|------------|
+| [🤖 AI-Learning](https://github.com/JoLiu-ai/AI-Learning) | Exploring AI with English |
+| [📚 English-Learning-journey](https://github.com/JoLiu-ai/English-Learning-journey) | My English learning path |
+| [🐍 python-learning](https://github.com/JoLiu-ai/python-learning) | Python programming journey |
+| [🔧 tools-in-life](https://github.com/JoLiu-ai/tools-in-life) | Useful tools collection |
+
+## 📊 GitHub Analytics 
+
 <div align="center">
-  <a href="https://github.com/JoLiu-ai" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoLiu-ai&show_icons=true&theme=tokyonight&bg_color=ffffff&title_color=2F4858&icon_color=1F7A8C&text_color=2F4858&border_color=86BBD8"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoLiu-ai&layout=compact&theme=tokyonight&bg_color=ffffff&title_color=2F4858&text_color=2F4858&border_color=86BBD8"/>
 </div>
+
+## 🌱 Current Focus
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Learning))
+    AI
+      Machine Learning
+      Natural Language
+    Python
+      Development
+      Tools
+    English
+      Reading
+      Writing
+```
+
+</div>
+
+## ⭐ Connect With Me
+
+[![GitHub](https://img.shields.io/badge/-JoLiu--ai-2F4858?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/JoLiu-ai)
+[![Profile Views](https://komarev.com/ghpvc/?username=JoLiu-ai&color=86BBD8)](https://github.com/JoLiu-ai)
 
 ---
+
+> *"The best time to plant a tree was 20 years ago.  
+> The second best time is now."*  
+>
+> 🌱 
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoLiu-ai&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+ 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"/>
+
 </div>
